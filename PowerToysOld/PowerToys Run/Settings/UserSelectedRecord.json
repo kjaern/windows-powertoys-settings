@@ -1,0 +1,34 @@
+{
+  "Records": {
+    "-9 : Copy this number to the clipboard": {
+      "SelectedCount": 1,
+      "LastSelected": "2024-07-15T20:12:51.1895258Z",
+      "IconPath": "C:\\Program Files\\PowerToys\\RunPlugins\\Calculator\\Images/calculator.dark.png",
+      "Title": "-9",
+      "Search": "45-54",
+      "Score": 0,
+      "SubTitle": "Copy this number to the clipboard",
+      "PluginID": "CEA0FDFC6D3B4085823D60DC76F28855"
+    },
+    "25 : Copy this number to the clipboard": {
+      "SelectedCount": 1,
+      "LastSelected": "2024-07-18T07:00:42.0456541Z",
+      "IconPath": "C:\\Program Files\\PowerToys\\RunPlugins\\Calculator\\Images/calculator.dark.png",
+      "Title": "25",
+      "Search": "5*5",
+      "Score": 0,
+      "SubTitle": "Copy this number to the clipboard",
+      "PluginID": "CEA0FDFC6D3B4085823D60DC76F28855"
+    },
+    "81 : Copy this number to the clipboard": {
+      "SelectedCount": 1,
+      "LastSelected": "2024-07-18T07:02:00.7923907Z",
+      "IconPath": "C:\\Program Files\\PowerToys\\RunPlugins\\Calculator\\Images/calculator.dark.png",
+      "Title": "81",
+      "Search": "89-8",
+      "Score": 0,
+      "SubTitle": "Copy this number to the clipboard",
+      "PluginID": "CEA0FDFC6D3B4085823D60DC76F28855"
+    }
+  }
+}
