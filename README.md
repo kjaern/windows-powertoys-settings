@@ -1,3 +1,3 @@
-git clone https://github.com/kjaern/windows-powertoys-settings %userprofile%\AppData\Local\Microsoft\PowerToysTmp
-mv %userprofile%\AppData\Local\Microsoft\PowerToysTmp %userprofile%\AppData\Local\Microsoft\PowerToys
-rmdir -Force -Recurse %userprofile%\AppData\Local\Microsoft\PowerToysTmp
+git clone https://github.com/kjaern/windows-powertoys-settings $env:LOCALAPPDATA\Microsoft\PowerToysTmp
+move -Path $env:LOCALAPPDATA\Microsoft\PowerToysTmp\.git -Destination $env:LOCALAPPDATA\Microsoft\PowerToys\.git
+rmdir -Force -Recurse $env:LOCALAPPDATA\Microsoft\PowerToysTmp
